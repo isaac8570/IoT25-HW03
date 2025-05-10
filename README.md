@@ -17,4 +17,4 @@ A potentiometer was connected to GPIO 34, and the analog values were printed to 
 
 
 ### Serial Monitor Output (Video)
-![ezgif-lab3](https://github.com/user-attachments/assets/74ef66f2-21a5-4736-b650-a5d13dc1107e)
+![ezgif-5086d7e6b6e024](https://github.com/user-attachments/assets/41e7f627-1060-40c0-96a8-08008a50dc7b)
